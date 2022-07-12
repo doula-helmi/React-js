@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
 .App {
   text-align: center;
 }
@@ -27,6 +29,14 @@
 .App-link {
   color: #61dafb;
 }
+
+h1{
+  text-align: center;
+    font-family: roboto !important;
+    margin: 3rem 0 5rem 0 !important;
+    color: #133444 !important;
+  
+  }
 
 @keyframes App-logo-spin {
   from {
